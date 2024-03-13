@@ -1,0 +1,6 @@
+﻿  LineView.cpp
+C:\Users\Admin\Desktop\20521658-Lab1\Line\Line\Line.h(25,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\20521658-Lab1\Line\Line\Line.h(31,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\20521658-Lab1\Line\Line\Line.h(38,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\20521658-Lab1\Line\Line\Line.h(44,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Line.vcxproj -> C:\Users\Admin\Desktop\20521658-Lab1\Line\x64\Debug\Line.exe

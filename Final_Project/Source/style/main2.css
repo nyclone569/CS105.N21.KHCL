@@ -1,0 +1,32 @@
+h1 {
+    width: 100%;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+section {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    flex-direction: row;
+    padding: 120px;
+}
+div {
+    width: 500px;
+    
+}
+a {
+    width: 100%;
+    text-decoration: inherit;
+    color: rgb(0, 87, 250);
+}
+a h4 {
+    font-size: 25px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+a img {
+    width: 100%;
+    border: 5px solid black;
+}
